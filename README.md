@@ -12,5 +12,15 @@ Modelado de plataforma web de concesionaria de vehículos de alta gama, usando U
 * La aceleración del vehículo.
 * La potencia del motor.
 
-## Diagramas UML
+## Recursos UML
 
+### Diagrama de casos de uso
+
+### Diagrama de clases
+El diagrama de clases se realizó basado en el patrón de diseño **Abstract Factory**.
+
+![diagramaClases](imagenes/diagramaClases.png)
+
+### Diagrama de actividades
+
+### Diagrama de secuencia
