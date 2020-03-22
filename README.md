@@ -1,4 +1,4 @@
-# Modelado de plataforma web de concesionaria
+# Modelado plataforma web de concesionaria
 
 ## Integrantes
 * Laura Alejandra Campos - 20201099028
