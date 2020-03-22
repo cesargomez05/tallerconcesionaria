@@ -19,7 +19,7 @@ Modelado de plataforma web de concesionaria de vehículos de alta gama, usando U
 ### Diagrama de clases
 El diagrama de clases se realizó basado en el patrón de diseño **Abstract Factory**.
 
-![diagramaClases](/imagenes/diagramaClases.png)
+![diagramaClases](imagenes/diagramaClases.png)
 
 ### Diagrama de actividades
 
