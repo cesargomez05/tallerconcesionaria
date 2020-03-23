@@ -17,6 +17,9 @@ Modelado de plataforma web de concesionaria de vehículos de alta gama, usando U
 ### Diagrama de casos de uso
 
 ![DiagramaCasosDeUso](imagenes/DiagramaCasosDeUso.png)
+![DiagramaCasosDeUso](imagenes/CU 01 INGRESAR AL SISTEMA.png)
+![DiagramaCasosDeUso](imagenes/CU 02 REALIZAR SIMULACION.png)
+
 
 ### Diagrama de clases
 El diagrama de clases se realizó basado en el patrón de diseño **Abstract Factory**.
