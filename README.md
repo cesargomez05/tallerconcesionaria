@@ -24,3 +24,5 @@ El diagrama de clases se realizó basado en el patrón de diseño **Abstract Fac
 ### Diagrama de actividades
 
 ### Diagrama de secuencia
+
+![DiagramaSecuencia](imagenes/DiagramaSecuencia.png)
