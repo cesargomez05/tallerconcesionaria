@@ -2,7 +2,7 @@
 
 ## Integrantes
 * Laura Alejandra Campos - 20201099028
-* Steven Gómez - 20201099030
+* Steven Fabián Gómez - 20201099030
 * Edna Nayibe Palma - 20201099041
 * César Augusto Gómez - 20201099031
 
