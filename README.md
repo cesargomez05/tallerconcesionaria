@@ -22,6 +22,7 @@ El diagrama de clases se realizó basado en el patrón de diseño **Abstract Fac
 ![DiagramaClases](imagenes/DiagramaClases.png)
 
 ### Diagrama de actividades
+![01-diagrama_actividad_Ingresar al sistema](imagenes/01-diagrama_actividad_Ingresar al sistema.jpg)
 
 ### Diagrama de secuencia
 
